@@ -16,6 +16,7 @@ public class DemoTest {
 	public void sub() {
 		int a=10;
 		int b=20;
+		int c=30;
 		Assert.assertEquals(10, -a+b);
 	}
 
