@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Free CRM Test Automation" verbose="1">
+
+	<test name="Free CRM Sanity Test">
+
+
+
+		<classes>
+			<class name="com.maven.demo.DemoTest2" />
+			<class name="com.maven.demo.DemoTest" />
+			<!-- <class name="com.crm.qa.testcases.ExportReportFailedScreenShot" /> -->
+
+		</classes>
+
+		
+
+	</test>
+
+</suite>
